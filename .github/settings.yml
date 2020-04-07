@@ -1,6 +1,7 @@
 repository:
   name: .github
   description: Github settings for this organization
+  topics: github, configuration
   private: false
 
   has_issues: true
