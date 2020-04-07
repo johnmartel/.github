@@ -6,6 +6,7 @@ repository:
   has_issues: true
   has_wiki: false
   has_downloads: false
+  has_projects: false
 
   default_branch: master
   allow_squash_merge: true
