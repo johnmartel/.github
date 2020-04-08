@@ -1,0 +1,12 @@
+{
+  "name": "github-organization-settings",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "yamllint .github/*.yml"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "yaml-lint": "1.2.4"
+  }
+}
