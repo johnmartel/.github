@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "lint": "yamllint .github/*.yml"
+    "lint": "yamllint .github/*.yml",
+    "lint:workflows": "yamllint .github/workflows/*.yml"
   },
   "dependencies": {},
   "devDependencies": {

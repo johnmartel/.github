@@ -14,3 +14,7 @@ extended by other repositories in this organization. For more details, see [prob
 ### Validation
 
 To validate settings, simply run `npm run lint`.
+
+### Github workflows
+
+To validate Github workflows before pushing a PR, simply run `npm run lint:workflows`.
