@@ -38,5 +38,6 @@ branches:
       required_status_checks:
         strict: true
         contexts: ['YAML lint']
+      required_signatures: true
       enforce_admins: null
       restrictions: null
