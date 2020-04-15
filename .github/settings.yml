@@ -24,9 +24,6 @@ collaborators:
   - username: johnmartel
     permission: admin
 
-  - username:
-    permission: pull
-
 branches:
   - name: master
     protection:
