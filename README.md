@@ -1,4 +1,4 @@
-# john-badass-test-org github settings
+# github settings
 
 ![](https://github.com/john-badass-test-org/.github/workflows/Validate%20YAML%20files/badge.svg)
 
