@@ -1,6 +1,6 @@
 # github settings
 
-![](https://github.com/john-badass-test-org/.github/workflows/Validate%20YAML%20files/badge.svg)
+![](https://github.com/johnmartel/.github/workflows/Validate%20YAML%20files/badge.svg)
 
 This repository defines basic, shareable settings for repositories owned by this organization.
 
