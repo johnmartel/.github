@@ -25,6 +25,9 @@ labels:
   - name: documentation
     color: '#6cb524'
     description: Change in the documentation
+  - name: dependencies
+    color: '#70f9e0'
+    description: Update dependencies
 
 collaborators:
   - username: johnmartel
