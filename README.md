@@ -1,6 +1,6 @@
 # github settings
 
-[![](https://github.com/johnmartel/.github/workflows/Validate%20YAML%20files/badge.svg)](https://github.com/johnmartel/.github/actions?query=workflow%3A%22Validate+WAML+files%22)
+[![](https://github.com/johnmartel/.github/workflows/Validate%20YAML%20files/badge.svg)](https://github.com/johnmartel/.github/actions?query=workflow%3A%22Validate+YAML+files%22)
 [![](https://api.dependabot.com/badges/status?host=github&repo=johnmartel/.github)](https://dependabot.com)
 
 
