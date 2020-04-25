@@ -19,6 +19,15 @@ labels:
     color: '#CC0000'
   - name: feature
     color: '#336699'
+  - name: chore
+    color: '#f2df8c'
+    description: Repoository or code maintenance
+  - name: documentation
+    color: '#6cb524'
+    description: Change in the documentation
+  - name: dependencies
+    color: '#70f9e0'
+    description: Update dependencies
 
 collaborators:
   - username: johnmartel
