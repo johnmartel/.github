@@ -21,7 +21,7 @@ labels:
     color: '#336699'
   - name: chore
     color: '#f2df8c'
-    description: Repoository or code maintenance
+    description: Repository or code maintenance
   - name: documentation
     color: '#6cb524'
     description: Change in the documentation
