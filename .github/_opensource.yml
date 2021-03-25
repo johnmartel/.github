@@ -47,5 +47,3 @@ branches:
       required_linear_history: true
       enforce_admins: null
       restrictions: null
-      allow_force_pushes: null
-      allow_deletions: false
