@@ -45,7 +45,6 @@ branches:
         strict: true
         contexts: []
       required_linear_history: true
-      required_signatures: true
       enforce_admins: null
       restrictions: null
       allow_force_pushes: null
