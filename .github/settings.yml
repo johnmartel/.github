@@ -49,5 +49,5 @@ branches:
         contexts:
           - YAML lint
       required_linear_history: true
-      enforce_admins: null
+      enforce_admins: true
       restrictions: null
