@@ -8,6 +8,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "yaml-lint": "1.2.4"
+    "yaml-lint": "1.6.0"
   }
 }
